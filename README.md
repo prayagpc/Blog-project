@@ -1,4 +1,5 @@
-#Get Started
+# Get Started
+
 1:- clone the repo
 2:- install the dependencies
 3:- change the env Variables
